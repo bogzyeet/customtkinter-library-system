@@ -24,11 +24,9 @@ The School Library Management System offers two types of user roles with differe
 
 ## 📷 Screenshots
 
-```markdown
 ![Login Screen](login_screen.png)
 ![Main Screen](main_screen1.png)
 ![Main Screen](main_screen2.png)
-```
 
 ## 🛠️ Installation
 1. Clone the repository:
