@@ -1,0 +1,101 @@
+[2023-03-06 10:15:30] 👤 Logged in as Nikhil
+[2023-03-06 10:16:00] 📚 Admin ~ Added book Book2, Author Author3, Availability 5
+[2023-03-06 10:16:15] 🗑️ Nikhil ~ Deleted book Book1
+[2023-03-06 10:16:30] 📖 Admin ~ Borrowed Book3
+[2023-03-06 10:15:45] 🔍 Nikhil ~ Searched for keyword1
+[2023-03-06 10:16:45] 📘 Nikhil ~ Returned Book2
+[2023-03-06 10:17:00] 📖 Admin ~ Borrowed Book4
+[2023-03-06 10:17:15] 🗑️ Admin ~ Deleted book Book3
+[2023-03-06 10:17:30] 🔍 Nikhil ~ Searched for keyword2
+[2023-03-06 10:18:00] 📚 Admin ~ Added book Book5, Author Author2, Availability 3
+[2023-03-06 10:18:15] 🗑️ Nikhil ~ Deleted book Book4
+[2023-03-06 10:18:30] 📘 Admin ~ Returned Book3
+[2023-03-06 10:18:45] 🔍 Nikhil ~ Searched for keyword3
+[2023-03-06 10:19:00] 📖 Nikhil ~ Borrowed Book5
+[2023-03-06 10:19:15] 🔍 Admin ~ Searched for keyword4
+[2023-03-06 10:19:30] 📘 Nikhil ~ Returned Book5
+[2023-03-06 10:19:45] 🗑️ Admin ~ Deleted book Book2
+[2023-03-06 10:20:00] 🔍 Nikhil ~ Searched for keyword5
+[2023-03-06 10:20:15] 📖 Admin ~ Borrowed Book1
+[2023-03-06 10:20:30] 📚 Nikhil ~ Added book Book6, Author Author4, Availability 2
+[2023-03-06 10:20:45] 📘 Admin ~ Returned Book1
+[2023-03-06 10:21:00] 🗑️ Nikhil ~ Deleted book Book6
+[2023-03-06 10:21:15] 🔍 Admin ~ Searched for keyword6
+[2023-03-06 10:21:30] 📖 Nikhil ~ Borrowed Book4
+[2023-03-06 10:21:45] 📘 Admin ~ Returned Book4
+[2023-03-06 10:22:00] 📚 Nikhil ~ Added book Book7, Author Author1, Availability 4
+[2023-03-06 10:22:15] 🗑️ Admin ~ Deleted book Book7
+[2023-03-06 10:22:30] 🔍 Nikhil ~ Searched for keyword7
+[2023-03-06 10:22:45] 📖 Admin ~ Borrowed Book6
+[2023-03-06 10:23:00] 📘 Nikhil ~ Returned Book6
+[2023-03-06 10:23:15] 📚 Admin ~ Added book Book8, Author Author3, Availability 1
+[2023-03-06 10:23:30] 🗑️ Nikhil ~ Deleted book Book8
+[2023-03-06 10:23:45] 🔍 Admin ~ Searched for keyword8
+[2023-03-06 10:24:00] 📖 Nikhil ~ Borrowed Book7
+[2023-03-06 10:24:15] 📘 Admin ~ Returned Book7
+[2023-03-06 10:24:30] 📚 Nikhil ~ Added book Book9, Author Author2, Availability 3
+[2023-03-06 10:24:45] 🗑️ Admin ~ Deleted book Book9
+[2023-03-06 10:25:00] 🔍 Nikhil ~ Searched for keyword9
+[2023-03-06 10:25:15] 📖 Admin ~ Borrowed Book8
+[2023-03-06 10:25:30] 📘 Nikhil ~ Returned Book8
+[2023-03-06 10:25:45] 📚 Admin ~ Added book Book10, Author Author4, Availability 5
+[2023-03-06 10:26:00] 🗑️ Nikhil ~ Deleted book Book10
+[2023-03-06 10:26:15] 🔍 Admin ~ Searched for keyword10
+[2023-03-06 10:26:30] 📖 Nikhil ~ Borrowed Book9
+[2023-03-06 10:26:45] 📘 Admin ~ Returned Book9
+[2023-03-06 10:27:00] 📚 Nikhil ~ Added book Book11, Author Author1, Availability 2
+[2023-03-06 10:27:15] 🗑️ Admin ~ Deleted book Book11
+[2023-03-06 10:27:30] 🔍 Nikhil ~ Searched for keyword11
+[2023-03-06 10:27:45] 📖 Admin ~ Borrowed Book10
+[2023-03-06 10:28:00] 📘 Nikhil ~ Returned Book10
+[2023-06-03 22:15:37] 👤 Logged in as Admin
+[2023-06-04 09:06:21] 👤 Logged in as Admin
+[2023-06-04 09:10:34] 👤 Logged in as Admin
+[2023-06-04 09:11:03] 🔍 Admin ~ Searched for k
+[2023-06-04 09:11:38] 👤 Logged in as Admin
+[2023-06-04 09:11:50] 📘 Admin ~ Returned Animal Farm
+[2023-06-05 13:05:28] 👤 Logged in as Admin
+[2023-06-05 13:05:37] 🚪 Logged out as Admin
+[2023-06-05 13:05:48] 👤 Logged in as Nikhil
+[2023-06-05 13:06:08] 🔍 Nikhil ~ Searched for k
+[2023-06-05 13:06:19] 📘 Nikhil ~ Returned To Kill a Mockingbird
+[2023-06-05 13:06:25] 📖 Nikhil ~ Borrowed 1984
+[2023-06-05 13:06:38] 🚪 Logged out as Nikhil
+[2023-06-05 13:06:45] 👤 Logged in as Admin
+[2023-06-05 13:06:57] 📚 Admin ~ Added book ok, Author 123, Availability Borrowed
+[2023-06-05 13:07:02] 🗑️ Admin ~ Deleted book 1984
+[2023-06-05 13:08:00] 👤 Logged in as Admin
+[2023-06-05 13:08:12] 🚪 Logged out as Admin
+[2023-06-05 13:08:19] 👤 Logged in as Nikhil
+[2023-06-05 15:05:30] 👤 Logged in as Nikhil
+[2023-06-05 15:06:20] 🔍 Nikhil ~ Searched for harry
+[2023-06-05 15:06:32] 🔍 Nikhil ~ Searched for rowling
+[2023-06-05 15:06:33] 🔍 Nikhil ~ Searched for rowling
+[2023-06-05 15:06:35] 🔍 Nikhil ~ Searched for rowling
+[2023-06-05 15:06:35] 🔍 Nikhil ~ Searched for rowling
+[2023-06-05 15:07:00] 📘 Nikhil ~ Returned Harry Potter and the Sorcerer's Stone
+[2023-06-05 15:07:48] 🚪 Logged out as Nikhil
+[2023-06-05 15:08:17] 👤 Logged in as Admin
+[2023-06-05 15:08:59] 📚 Admin ~ Added book zuhaib, Author his dad, Availability Available
+[2023-06-05 15:09:13] 🗑️ Admin ~ Deleted book Animal Farm
+[2023-06-05 15:09:23] 🗑️ Admin ~ Deleted book zuhaib
+[2023-06-05 17:13:59] 👤 Logged in as Nikhil
+[2023-06-05 17:14:42] 🔍 Nikhil ~ Searched for rowling
+[2023-06-05 17:14:47] 🔍 Nikhil ~ Searched for k
+[2023-06-05 17:15:25] 📘 Nikhil ~ Returned The Catcher in the Rye
+[2023-06-05 17:15:48] 📖 Nikhil ~ Borrowed The Great Gatsby
+[2023-06-05 17:16:50] 👤 Logged in as Admin
+[2023-06-05 17:17:25] 📚 Admin ~ Added book New Book Title, Author MY NAME, Availability Available
+[2023-06-05 17:17:38] 🗑️ Admin ~ Deleted book The Great Gatsby
+[2023-06-06 08:53:27] 👤 Logged in as Nikhil
+[2023-06-06 08:53:57] 🔍 Nikhil ~ Searched for k
+[2023-06-06 08:54:04] 🔍 Nikhil ~ Searched for j.k
+[2023-06-06 08:54:34] 📘 Nikhil ~ Returned Brave New World
+[2023-06-06 08:54:54] 📖 Nikhil ~ Borrowed To Kill a Mockingbird
+[2025-03-28 16:26:02] 👤 Logged in as Admin
+[2025-03-28 16:26:24] 👤 Logged in as Nikhil
+[2025-03-28 16:46:09] 👤 User 'Nikhil' logged in
+[2025-03-28 16:46:39] 🚪 Logged out as Nikhil
+[2025-03-28 16:46:46] 👤 User 'Admin' logged in
+[2025-03-28 21:53:20] 👤 User 'Admin' logged in
+[2025-03-28 21:53:51] 👤 User 'Admin' logged in
