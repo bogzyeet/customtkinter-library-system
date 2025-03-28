@@ -15,6 +15,21 @@ This Python project was made for my Grade 12 School Competition.
 - User login and role management
 - Beautiful dark theme with custom icons
 
+## 👥 User Roles
+
+The School Library Management System offers two types of user roles with different permissions:
+
+- **Admin View**: The admin account has full access to all features, including adding, deleting, borrowing, and returning books. Admin username is **"Admin"** and password is **"password"**.
+- **Student View**: The student account can borrow and return books, and search for available books. Student username is **"User"** and password is **"password"**.
+
+## 📷 Screenshots
+
+```markdown
+![Login Screen](login_screen.png)
+![Main Screen](main_screen1.png)
+![Main Screen](main_screen2.png)
+```
+
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash

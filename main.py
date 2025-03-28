@@ -142,8 +142,13 @@ class App(customtkinter.CTk):
     def show_login_screen(self):
         
         # load images with light and dark mode image
+        loginbg = Image.open("resource_files/deblogin-1.png").resize((1200, 850),Image.LANCZOS)
+        loginbgmain = ImageTk.PhotoImage(loginbg)
        
-        self.frame1=customtkinter.CTkFrame(master=self, width=320, height=360, corner_radius=15)
+        self.bglbl = customtkinter.CTkLabel(master=self, image=loginbgmain)
+        self.bglbl.place(relx=0.5, rely=0.5, anchor='center')
+        
+        self.frame1=customtkinter.CTkFrame(master=self, width=320, height=360, corner_radius=15, background_corner_colors=("#2048bf","#2048bf","#2048bf","#2048bf"))
         self.frame1.place(relx=0.5, rely=0.5, anchor='center')
 
         self.l2=customtkinter.CTkLabel(master=self.frame1, text="Log-in to your Account",font=('Century Gothic',20))
